@@ -1,0 +1,2 @@
+aurelius-mcp==0.6.1
+mcp<2
